@@ -5,11 +5,11 @@
 #include <MadgwickAHRS.h>   // Biblioteca para o filtro de fusão de sensores
 
 // --- CONFIGURAÇÕES DO USUÁRIO ---
-#define WIFI_SSID "VR 2.4G"
-#define WIFI_PASSWORD "ARBa8486"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 // IP do computador onde o servidor SlimeVR está rodando
-#define SERVER_IP IPAddress(192,168,2,37)
+#define SERVER_IP IPAddress()
 #define SERVER_PORT 6969
 
 // Pinos I2C para o sensor no seu ESP32
