@@ -10,3 +10,4 @@ bateria dependerá da capacidade fornecida pelo mesmo.
 ex: bateria 3,7V- 1020mAh duração aproximada 2h ~ 4h, e 1200mAh a 2000mAh  estimativas de (7h ~ 10h) e (15h ~ 20h) ou +. Dependendo o tipo, capacidade e a qualidade da bateria.
 
 atualização do firmware para slimeVR Compatíveis como o sensor (LSM6DS3) e (ESP-32-WROOM-DA-MODULE)
+NOVAS ATUALIZAÇÕES EM BREVE.
